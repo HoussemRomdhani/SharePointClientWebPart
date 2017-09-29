@@ -1,0 +1,3 @@
+C:\Users\houssem.r\Desktop\office365\SharePointClientWebPart\SharePointClientWebPart\bin\Debug\SharePointClientWebPart.pdb
+C:\Users\houssem.r\Desktop\office365\SharePointClientWebPart\SharePointClientWebPart\obj\Debug\SharePointClientWebPart.dll
+C:\Users\houssem.r\Desktop\office365\SharePointClientWebPart\SharePointClientWebPart\obj\Debug\SharePointClientWebPart.pdb
